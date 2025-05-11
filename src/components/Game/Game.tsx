@@ -674,7 +674,7 @@ const Game = () => {
     );
   }
 
-  if (isMobile) {
+  if (false) {
     return (
       <div className="bg-mobile bg">
         <div className="mobile-warning">
